@@ -1,4 +1,4 @@
-# -Movie-theater-management_Database
+# Movie-theater-management_Database
 CSDL quản lí rạp chiếu phim
 <h1>Diagram</h1>
 
